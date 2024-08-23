@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuj1kr
+- 👋 Hi, I’m @0xanujs
 - 👀 I’m interested in: coding 
 - 🌱 I’m currently learning: languages
 - 💞️ I’m looking to collaborate on: currently nothing
