@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **python**
 
-- 📫 How to reach me: **email**
+- 📫 How to reach me: **email, discord**
 
 - ⚡ Fun fact: **It ain't fun anymore**
 
