@@ -2,7 +2,7 @@
 - 👀 I’m interested in: programming 
 - 🌱 I’m currently learning: web3
 - 💞️ I’m looking to collaborate on: currently nothing
-- 📫 How to reach me: email
+- 📫 How to reach me: email, discord username- anujs_.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: it ain't fun anymore 
 
