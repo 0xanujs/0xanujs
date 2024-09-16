@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning: **web3**
 
-- 👯 I’m looking to collaborate on: **currently nothing :\**
+- 👯 I’m looking to collaborate on: **currently nothing**
 
 - 💬 Ask me about: **python**
 
 - 📫 How to reach me: **email**
 
-- ⚡ Fun fact **It ain't fun anymore**
+- ⚡ Fun fact: **It ain't fun anymore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
