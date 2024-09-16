@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm anuj</h1>
-<h3 align="center">a dev</h3>
+<h3 align="center">a web3 dev</h3>
 
 - 🌱 I’m currently learning: **web3**
 
