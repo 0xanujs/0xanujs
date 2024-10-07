@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm anuj</h1>
-<h3 align="center">a web3 dev</h3>
+<h3 align="center">a dev</h3>
 
 - 🌱 I’m currently learning: **web3**
 
@@ -7,9 +7,8 @@
 
 - 💬 Ask me about: **python**
 
-- 📫 How to reach me: **email, discord**
-
-- ⚡ Fun fact: **It ain't fun anymore**
+- 📫 How to reach me: **email, discord, X (twitter)**
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
