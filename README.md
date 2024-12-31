@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm anuj</h1>
+<h1 align="center">Hi , I'm anuj</h1>
 <h3 align="center">a dev</h3>
 
 - 🌱 I’m currently learning: **web3**
 
 - 👯 I’m looking to collaborate on: **currently nothing**
 
-- 💬 Ask me about: **python**
+- 💬 Ask me about: **python**, **javascript**
 
 - 📫 How to reach me: **email, discord, X (twitter)**
   
