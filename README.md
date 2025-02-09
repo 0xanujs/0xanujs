@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm anuj</h1>
+<h1 align="center">Hi , I'm Anuj</h1>
 <h3 align="center">a dev</h3>
 
 - 🌱 I’m currently learning: **web3**
@@ -7,9 +7,17 @@
 
 - 💬 Ask me about: **python**, **javascript**
 
-- 📫 How to reach me: **email, discord, X (twitter)**
-  
+<h3 align="left">How to reach me:</h3>
+<p align="left">
+  <a href="mailto:theanuj33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50">
+  </a>  
+  <a href="https://twitter.com/anujs_twts" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="50">
+  </a>
+</p>
 
+discord: anujs_.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,9 +32,7 @@
   </a>
 </p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xanujs&show_icons=true&locale=en&layout=compact" alt="0xanujs" /></p>
-
 
 <!---
 anuj1kr/anuj1kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
