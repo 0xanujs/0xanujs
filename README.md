@@ -32,7 +32,7 @@ discord username: anujs_.
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xanujs&show_icons=true&locale=en&layout=compact" alt="0xanujs" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xanujs&layout=compact)
 
 <!---
 anuj1kr/anuj1kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
