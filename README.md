@@ -17,7 +17,7 @@
   </a>
 </p>
 
-discord username: _anujs_
+discord username:   \_anujs\_
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
