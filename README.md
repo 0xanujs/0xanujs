@@ -35,7 +35,7 @@ discord username:   \_anujs\_
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
 </p>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanujs&layout=compact&theme=transparent" alt="Top Languages"/>
 <!---
 anuj1kr/anuj1kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
