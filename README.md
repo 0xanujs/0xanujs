@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on: **currently nothing**
 
-- 💬 Ask me about: **python**, **javascript**
+- 💬 Ask me about: **python** & **javascript**
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
