@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **web3**
 
-- 👯 I’m looking to collaborate on: **currently nothing**
+- 👯 I’m looking to collaborate on: **anything interesting my domain**
 
 - 💬 Ask me about: **python** & **javascript**
 
