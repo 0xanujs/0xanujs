@@ -25,7 +25,7 @@
   </a>
 </p>
 
-discord username: \_anujs\_
+discord username: 0xanujs
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -77,6 +77,14 @@ discord username: \_anujs\_
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
