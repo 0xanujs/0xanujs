@@ -13,14 +13,14 @@
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
-      height="50"
+      height="40"
     />
   </a>
   <a target="_blank" href="https://twitter.com/anujs_twts" target="_blank">
     <img
       src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter"
-      height="50"
+      height="40"
     />
   </a>
 </p>
