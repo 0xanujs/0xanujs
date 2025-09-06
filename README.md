@@ -16,7 +16,7 @@
       height="40"
     />
   </a>
-  <a target="_blank" href="https://twitter.com/anujs_twts" target="_blank">
+  <a target="_blank" href="https://twitter.com/anujstwtss" target="_blank">
     <img
       src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter"
