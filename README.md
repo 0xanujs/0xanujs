@@ -1,9 +1,4 @@
-<h1 align="center">Hi , I'm Anuj</h1>
-<h3 align="center">a dev</h3>
-
 - 🌱 I’m currently learning: **web3**
-
-- 👯 I’m looking to collaborate on: **anything interesting my domain**
 
 - 💬 Ask me about: **python** & **javascript**
 
